@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.exe
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.deps.json
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.dll
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\bin\Debug\netcoreapp3.1\OverviewII.pdb
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.dll
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.pdb
+C:\Users\thelittlecitizen16\source\repos\OverviewII\OverviewII\obj\Debug\netcoreapp3.1\OverviewII.genruntimeconfig.cache
